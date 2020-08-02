@@ -1,0 +1,108 @@
+
+    body {
+        background-color: #ffe6ff;
+        background-attachment:fixed;
+        background-position:center;
+        background-size:cover;
+    }
+ 
+    #header{
+            background-image: linear-gradient(to bottom right,#b300b3, #ffb3ff);
+            border-radius: 10px;
+            margin: auto;
+            margin-top:50px;
+            color:white;
+            text-align:center;
+            padding:5px;
+            width:50%;
+            border:1px solid black;      
+    }
+
+    #section{
+        width:85%;
+        float:left;
+        padding:10px;	 	 
+        height:100%;   
+    }
+
+    input[type=email],input[type=password],input[type=text]{
+        width: 30%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+    }
+
+    .button{
+        background-color: rgb(0, 0, 100);
+        color: white;
+        border-radius: 5px;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        cursor: pointer;
+        width: 15%;
+    }
+
+    button:hover{
+        opacity: 0.6;
+    }
+
+    .container{
+        width: 100%;
+    }
+
+    span.psw{
+        float: right;
+        padding-top: 16px;
+        color:black;
+    }
+
+    .tbox{
+        color:black
+    }
+
+    h3{
+        color: red;
+    }
+
+    label{
+        width:40%;
+    }
+    
+    b{
+        font-family:"Comic Sans MS", cursive, sans-serif;
+        font-size:25px;
+        color:#00004d;
+    }
+
+    #btnExport{
+        background-color:#000066;
+        color:#e6e6ff;
+        border-radius: 15px;
+        margin-left:10px;
+        height:50px;
+      
+      }
+
+    .container{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size:15px;
+    }
+
+    .panel panel-default{
+        background-color:#e6ecff;
+        width:200px;
+    }
+
+    .panel-heading{
+        color:#330033;
+        font-size:20px
+    }
+
+    .price{
+        align:center;
+        margin-left:80px;
+        margin-right:auto;
+    }
